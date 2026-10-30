@@ -1,0 +1,54 @@
+🕯️  Link Séance  ·  13 links  ·  checking pulses
+
+  [ 1/13] DEAD      http://www.google.com/reader/view/  HTTP 404 Not Found (at https://www.google.com/reader/about/)
+  [ 2/13] DEAD      http://www.google.com/reader/about/  HTTP 404 Not Found
+  [ 3/13] DEAD      http://posterous.com/  HTTP 404 Not Found
+  [ 4/13] alive     http://www.orkut.com/  HTTP 200
+  [ 5/13] WANDERING https://wave.google.com/  redirects away to https://support.google.com/answer/1083134?hl=en
+  [ 6/13] WANDERING https://plus.google.com/  redirects away to https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html
+  [ 7/13] WANDERING http://www.geocities.com/SiliconValley/  redirects away to https://www.yahoo.com/
+  [ 8/13] WANDERING http://www.everyblock.com/  redirects away to https://nextdoor.com/
+  [ 9/13] WANDERING https://answers.yahoo.com/  redirects away to https://search.yahoo.com/
+  [10/13] DEAD      http://www.megaupload.com/  domain no longer resolves (DNS)
+  [11/13] alive     https://www.wikipedia.org/  HTTP 200
+  [12/13] alive     https://vine.co/  HTTP 200
+  [13/13] alive     http://www.joelonsoftware.com/articles/fog0000000069.html  HTTP 200
+
+  Waking the medium (llama.cpp)…
+  gemma-3-4b-it-Q4_K_M.gguf is listening. Nothing leaves this machine but archive lookups.
+
+  Summoning 9 spirits from the Wayback Machine…
+
+  ∅ http://www.google.com/reader/view/
+      The archive never saw this page alive (it may have lived behind a login), so I will not invent an epitaph for it.
+
+  🕯️ Google Reader – Google  (born 2 July 2013, last seen 1 May 2021)
+      ✗ rejected draft (first sentence uses words the archive never said: managing): “Here lies Google Reader – Google, the page for managing subscriptions. It is now silent; its connections have been severed.”
+      “Here lies Google Reader – Google, the page where subscription data was systematically deleted. It rests now; its connections have been irrevocably severed.”
+
+  🕯️ Good night, Posterous  (born 24 April 2008, last seen 27 November 2022)
+      ✗ rejected draft (first sentence uses words the archive never said: information, platform, sharing, organizing): “Here lies Posterous Spaces, a platform for organizing and sharing information. It is now silent, a testament to collaborative effort.”
+      ✗ rejected draft (first sentence uses words the archive never said: information, platform, sharing, organizing): “Here lies Posterous Spaces, a platform for organizing and sharing information. It was an honor and pleasure working with all of y’all.”
+      ✗ rejected draft (first sentence uses words the archive never said: information, platform, sharing, organizing): “Here lies Posterous Spaces, a platform for organizing and sharing information. It was an honor and pleasure working with all of y’all.”
+      Here lies “Good night, Posterous”. Its last recorded words: “Posterous Spaces Posterous Spaces is no longer available Thanks to all of my @posterous peeps.”  [quoted from the archive]
+
+  🕯️ Google Wave Preview  (born 4 June 2009, last seen 9 September 2009)
+      “Here lies Google Wave Preview, a tool for communication and collaboration on the web. It waits quietly now, hoping to connect with others.”
+
+  🕯️ Google+  (born 15 February 2012, last seen 2 March 2018)
+      Here lies “Google+”. Its last recorded words: “Your browser is not supported by Google+.”  [quoted from the archive]
+
+  🕯️ Yahoo! GeoCities - SiliconValley  (born 21 December 1996, last seen 1 October 1999)
+      ✗ rejected draft (first sentence uses words the archive never said: information, offering, local, about): “Here lies SiliconValley, a page offering information about local communities and neighborhoods. It is now silent; its digital pathways remain undisturbed.”
+      “Here lies SiliconValley, a page exploring the sub-neighborhoods and Yahoo! Resources.”
+
+  🕯️ EveryBlock  (born 25 May 2007, last seen 15 July 2018)
+      “Here lies EveryBlock, the site for neighborhood discussions and local news. Its purpose is now complete; may its conversations continue elsewhere.”
+
+  🕯️ Homepage | Yahoo Answers  (born 10 December 2005, last seen 1 May 2021)
+      “Here lies Yahoo Answers, a platform for discussing 100M+ topics through questions and answers. Its voices fade now, returning to the quiet of shared knowledge.”
+
+  🕯️ MEGAUPLOAD - The leading online storage and file delivery service  (born 19 May 2005, last seen 1 January 2012)
+      Here lies “MEGAUPLOAD - The leading online storage and file delivery service”. Its last recorded words: “By sending files to Megaupload, you agree to our Terms of Service”  [quoted from the archive]
+
+  The ofrenda is set: examples/OFRENDA.md and ofrenda.html

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "when": "30 October 2026",
+    "source": "bookmarks-2009.md",
+    "total": 13,
+    "model": "gemma-3-4b-it-Q4_K_M.gguf"
+  },
+  "spirits": [
+    {
+      "url": "http://www.google.com/reader/view/",
+      "reason": "HTTP 404 Not Found (at https://www.google.com/reader/about/)",
+      "title": "",
+      "snapshot": "",
+      "last_seen": "",
+      "born": "",
+      "how": "silent",
+      "rejected": [],
+      "epitaph": "The archive never saw this page alive (it may have lived behind a login), so I will not invent an epitaph for it."
+    },
+    {
+      "url": "http://www.google.com/reader/about/",
+      "reason": "HTTP 404 Not Found",
+      "rejected": [
+        {
+          "draft": "Here lies Google Reader – Google, the page for managing subscriptions. It is now silent; its connections have been severed.",
+          "reason": "first sentence uses words the archive never said: managing"
+        }
+      ],
+      "title": "Google Reader – Google",
+      "how": "model",
+      "epitaph": "Here lies Google Reader – Google, the page where subscription data was systematically deleted. It rests now; its connections have been irrevocably severed.",
+      "snapshot": "https://web.archive.org/web/20210501015154/https://www.google.com/reader/about/",
+      "last_seen": "1 May 2021",
+      "born": "2 July 2013"
+    },
+    {
+      "url": "http://posterous.com/",
+      "reason": "HTTP 404 Not Found",
+      "rejected": [
+        {
+          "draft": "Here lies Posterous Spaces, a platform for organizing and sharing information. It is now silent, a testament to collaborative effort.",
+          "reason": "first sentence uses words the archive never said: information, platform, sharing, organizing"
+        },
+        {
+          "draft": "Here lies Posterous Spaces, a platform for organizing and sharing information. It was an honor and pleasure working with all of y’all.",
+          "reason": "first sentence uses words the archive never said: information, platform, sharing, organizing"
+        },
+        {
+          "draft": "Here lies Posterous Spaces, a platform for organizing and sharing information. It was an honor and pleasure working with all of y’all.",
+          "reason": "first sentence uses words the archive never said: information, platform, sharing, organizing"
+        }
+      ],
+      "title": "Good night, Posterous",
+      "how": "quoted",
+      "epitaph": "Here lies “Good night, Posterous”. Its last recorded words: “Posterous Spaces Posterous Spaces is no longer available Thanks to all of my @posterous peeps.”",
+      "snapshot": "https://web.archive.org/web/20221127043801/http://www.posterous.com/",
+      "last_seen": "27 November 2022",
+      "born": "24 April 2008"
+    },
+    {
+      "url": "https://wave.google.com/",
+      "reason": "redirects away to https://support.google.com/answer/1083134?hl=en",
+      "rejected": [],
+      "title": "Google Wave Preview",
+      "how": "model",
+      "epitaph": "Here lies Google Wave Preview, a tool for communication and collaboration on the web. It waits quietly now, hoping to connect with others.",
+      "snapshot": "https://web.archive.org/web/20090909061231/http://wave.google.com/",
+      "last_seen": "9 September 2009",
+      "born": "4 June 2009"
+    },
+    {
+      "url": "https://plus.google.com/",
+      "reason": "redirects away to https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html",
+      "rejected": [],
+      "title": "Google+",
+      "how": "quoted",
+      "epitaph": "Here lies “Google+”. Its last recorded words: “Your browser is not supported by Google+.”",
+      "snapshot": "https://web.archive.org/web/20180302162823/https://plus.google.com/",
+      "last_seen": "2 March 2018",
+      "born": "15 February 2012"
+    },
+    {
+      "url": "http://www.geocities.com/SiliconValley/",
+      "reason": "redirects away to https://www.yahoo.com/",
+      "rejected": [
+        {
+          "draft": "Here lies SiliconValley, a page offering information about local communities and neighborhoods. It is now silent; its digital pathways remain undisturbed.",
+          "reason": "first sentence uses words the archive never said: information, offering, local, about"
+        }
+      ],
+      "title": "Yahoo! GeoCities - SiliconValley",
+      "how": "model",
+      "epitaph": "Here lies SiliconValley, a page exploring the sub-neighborhoods and Yahoo! Resources.",
+      "snapshot": "https://web.archive.org/web/19991001052339/http://www4.geocities.com:80/SiliconValley/",
+      "last_seen": "1 October 1999",
+      "born": "21 December 1996"
+    },
+    {
+      "url": "http://www.everyblock.com/",
+      "reason": "redirects away to https://nextdoor.com/",
+      "rejected": [],
+      "title": "EveryBlock",
+      "how": "model",
+      "epitaph": "Here lies EveryBlock, the site for neighborhood discussions and local news. Its purpose is now complete; may its conversations continue elsewhere.",
+      "snapshot": "https://web.archive.org/web/20180715011340/https://www.everyblock.com/",
+      "last_seen": "15 July 2018",
+      "born": "25 May 2007"
+    },
+    {
+      "url": "https://answers.yahoo.com/",
+      "reason": "redirects away to https://search.yahoo.com/",
+      "rejected": [],
+      "title": "Homepage | Yahoo Answers",
+      "how": "model",
+      "epitaph": "Here lies Yahoo Answers, a platform for discussing 100M+ topics through questions and answers. Its voices fade now, returning to the quiet of shared knowledge.",
+      "snapshot": "https://web.archive.org/web/20210501000008/https://answers.yahoo.com/",
+      "last_seen": "1 May 2021",
+      "born": "10 December 2005"
+    },
+    {
+      "url": "http://www.megaupload.com/",
+      "reason": "domain no longer resolves (DNS)",
+      "rejected": [],
+      "title": "MEGAUPLOAD - The leading online storage and file delivery service",
+      "how": "quoted",
+      "epitaph": "Here lies “MEGAUPLOAD - The leading online storage and file delivery service”. Its last recorded words: “By sending files to Megaupload, you agree to our Terms of Service”",
+      "snapshot": "https://web.archive.org/web/20120101220451/http://megaupload.com/",
+      "last_seen": "1 January 2012",
+      "born": "19 May 2005"
+    }
+  ],
+  "living": [
+    {
+      "url": "http://www.orkut.com/"
+    },
+    {
+      "url": "https://www.wikipedia.org/"
+    },
+    {
+      "url": "https://vine.co/"
+    },
+    {
+      "url": "http://www.joelonsoftware.com/articles/fog0000000069.html"
+    }
+  ]
+}
