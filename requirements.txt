@@ -1,0 +1,3 @@
+# The archive and the web are reached with the Python standard library.
+# Only the local model runtime is needed (skip it if you use --backend ollama or --no-model).
+llama-cpp-python>=0.3.0

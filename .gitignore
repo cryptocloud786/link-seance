@@ -1,0 +1,5 @@
+models/
+.seance_cache/
+__pycache__/
+*.gguf
+.run/
